@@ -1,4 +1,3 @@
-v1
 # ReHLDS [![C/C++ CI](https://github.com/dreamstalker/rehlds/actions/workflows/build.yml/badge.svg)](https://github.com/dreamstalker/rehlds/actions/workflows/build.yml) [![GitHub release (by tag)](https://img.shields.io/github/downloads/dreamstalker/rehlds/latest/total)](https://github.com/dreamstalker/rehlds/releases/latest) ![GitHub all releases](https://img.shields.io/github/downloads/dreamstalker/rehlds/total) [![Percentage of issues still open](http://isitmaintained.com/badge/open/dreamstalker/rehlds.svg)](http://isitmaintained.com/project/dreamstalker/rehlds "Percentage of issues still open") [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <img align="right" src="https://user-images.githubusercontent.com/5860435/111066129-040e5e00-84f0-11eb-9e1f-7a7e8611da2b.png" alt="ReHLDS" />
 Reverse-engineered (and bugfixed) HLDS
 
