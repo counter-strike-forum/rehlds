@@ -15,6 +15,7 @@
 # - Compile with GCC Compiler:
 #    cmake ..
 #    make
+# test
 #----------------------------------------
 
 cmake_minimum_required(VERSION 3.1)
